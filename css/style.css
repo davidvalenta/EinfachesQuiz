@@ -7,7 +7,7 @@ html,body{
   overflow: hidden;
   margin:0;
   padding:0;
-  background: #ffffff;
+  background: #D7A500;
   color: #000000;
   font-size:20px;
   text-align: center;
@@ -39,7 +39,7 @@ a {
 #points{
   width: 10vw;
   padding: 0.5vw 0;
-  border: 0.25vw solid #000000;
+  border: 0.25vw solid #007200;
   box-sizing: border-box;
   border-radius: 1.5vw;
   font-size: 2vw;
